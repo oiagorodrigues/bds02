@@ -2,9 +2,17 @@
 
 Simple REST Events API made as the second task of the DevSuperior Spring React Bootcamp, using Spring Boot and persiting in a memory database using Spring Data JPA.
 
+## Disclaimer
+
+The repo was forked from 
+
 ## How to install
 
-Clone this repo
+Clone this repo [devsuperior/bds02](https://github.com/devsuperior/bds02) with integration tests already made. In order to complete the task, I needed to create **repositores**, **services** and **controllers** to pass the tests.
+
+I've added unit tests after the completion of the task to pratice a bit more.
+
+
 ```bash
 git clone https://github.com/oiagorodrigues/dsbootcamp-java-tdd-task.git
 
