@@ -4,7 +4,7 @@ Simple REST Events API made as the second task of the DevSuperior Spring React B
 
 ## Disclaimer
 
-The repo was forked from [devsuperior/bds02](https://github.com/devsuperior/bds02) with integration tests already made. In order to complete the task, I needed to create **repositores**, **services** and **controllers** to pass the tests.
+The repo was forked from [devsuperior/bds02](https://github.com/devsuperior/bds02) with integration tests already made. In order to complete the task, I needed to create **repositories**, **services** and **controllers** to pass the tests.
 
 I've added unit tests after the completion of the task to pratice a bit more.
 
