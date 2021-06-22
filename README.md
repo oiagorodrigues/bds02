@@ -4,9 +4,7 @@ Simple REST Events API made as the second task of the DevSuperior Spring React B
 
 ## Disclaimer
 
-The repo was forked from [devsuperior/bds02](https://github.com/devsuperior/bds02) with integration tests already made. In order to complete the task, I needed to create **repositories**, **services** and **controllers** to pass the tests.
-
-I've added unit tests after the completion of the task to pratice a bit more.
+The repo was forked from [devsuperior/bds02](https://github.com/devsuperior/bds04) with integration tests already made. In order to complete the task, I needed to create **repositories**, **services** and **controllers** to pass the tests.
 
 ## How to install
 
@@ -14,11 +12,11 @@ Clone this repo
 
 
 ```bash
-git clone https://github.com/oiagorodrigues/dsbootcamp-java-tdd-task.git
+git clone https://github.com/oiagorodrigues/dsbootcamp-java-task-2.git
 
 or 
 
-git clone git@github.com:oiagorodrigues/dsbootcamp-java-tdd-task.git
+git clone git@github.com:oiagorodrigues/dsbootcamp-java-task-2.git
 ```
 
 Open it in your favorite IDE. 
@@ -28,10 +26,9 @@ Recommended using [Intellij](https://www.jetbrains.com/pt-br/idea/), [STS](https
 
 - Creating a Data Layer with Entity|Model, Repository and Service
 - Creating a API layer with Controller and DTO
-- Creating custom Exceptions, custom StandardError and an ExceptionHandler
+- Creating custom Exceptions, custom Errors and an ExceptionHandler
 - Seeding the database
 - Integration Tests
-- Unit Tests
 
 ## Conceptual model
 
