@@ -112,7 +112,7 @@ Example Response
 Example Response
 
 ```json
-// 201 NO CONTENT  - When a city exists
+// 204 NO CONTENT  - When a city exists
 // 404 NOT FOUND   - When a city doesn't exists
 // 400 BAD REQUEST - When a city is associated with one or more events
 ```
